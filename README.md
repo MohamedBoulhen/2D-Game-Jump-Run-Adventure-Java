@@ -16,11 +16,13 @@ Various enemies and boss battles to test your skills.
 Collectible coins to upgrade and unlock new abilities.
 
 ## Screenshots
-/Users/mo/Desktop/2D-Game-Jump-Run-Adventure-Java/GameSE/res/Screen/Screenshot 2024-06-05 at 12.24.05.png
-/Users/mo/Desktop/2D-Game-Jump-Run-Adventure-Java/GameSE/res/Screen/Screenshot 2024-06-05 at 12.24.34.png
-/Users/mo/Desktop/2D-Game-Jump-Run-Adventure-Java/GameSE/res/Screen/Screenshot 2024-06-05 at 12.24.52.png
-/Users/mo/Desktop/2D-Game-Jump-Run-Adventure-Java/GameSE/res/Screen/Screenshot 2024-06-05 at 12.25.03.png
-/Users/mo/Desktop/2D-Game-Jump-Run-Adventure-Java/GameSE/res/Screen/Screenshot 2024-06-05 at 12.25.18.png
+
+![Screenshot 2024-06-05 at 12.24.05](GameSE/res/Screen/Screenshot%202024-06-05%20at%2012.24.05.png)
+![Screenshot 2024-06-05 at 12.24.34](GameSE/res/Screen/Screenshot%202024-06-05%20at%2012.24.34.png)
+![Screenshot 2024-06-05 at 12.24.52](GameSE/res/Screen/Screenshot%202024-06-05%20at%2012.24.52.png)
+![Screenshot 2024-06-05 at 12.25.03](GameSE/res/Screen/Screenshot%202024-06-05%20at%2012.25.03.png)
+![Screenshot 2024-06-05 at 12.25.18](GameSE/res/Screen/Screenshot%202024-06-05%20at%2012.25.18.png)
+
 
 ## Credits
 Game Development Team: Mohamed Boulhen, Hana Halitim
